@@ -154,7 +154,7 @@ class App:
         self.root = root
         root.overrideredirect(True)
         root.configure(bg=COL_ABYSS)
-        self.lang = "ru"
+        self.lang = "en"
         self.track = tk.StringVar()
         self.start = tk.StringVar(value="0")
         self.lufs = tk.IntVar(value=-10)
