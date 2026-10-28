@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.vpk
+
+# OS / IDE
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+
+# Dev scratch
+dev/
